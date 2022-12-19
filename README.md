@@ -30,7 +30,7 @@ Currently concentrating in MERN stack development😆
 <br/>  
 
 
-## Rapidfire  
+ 
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning MERN stack development  
