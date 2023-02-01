@@ -85,7 +85,7 @@ Currently concentrating in MERN stack development😆
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rijoksd&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
