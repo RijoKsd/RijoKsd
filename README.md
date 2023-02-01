@@ -31,7 +31,7 @@ Currently concentrating in MERN stack development😆
 
 
  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 - 🌱 I’m currently learning MERN stack development  
   
@@ -42,7 +42,7 @@ Currently concentrating in MERN stack development😆
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top">
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
@@ -85,7 +85,7 @@ Currently concentrating in MERN stack development😆
 
 
 ## Github Stats  
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rijoksd&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
