@@ -107,3 +107,6 @@ Currently concentrating in MERN stack development😆
 
 
 <br />
+
+
+<a href="https://app.daily.dev/rijoksd"><img src="https://api.daily.dev/devcards/d567c2948ff44827986f0d55073f5656.png?r=2b9" width="400" alt="Rijo Sebastian's Dev Card"/></a>
