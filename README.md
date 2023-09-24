@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijoksd&label=Profile%20views&color=0e75b6&style=flat" alt="rijoksd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijoksd" alt="rijoksd" /></a> </p>
-
 - 🔭 I’m currently working on **MERN stack web development projects.**
 
 - 🌱 I’m currently learning **Latest web dev trends, MERN advancements.**
@@ -13,9 +11,11 @@
 
 - 🤝 I’m looking for help with **MERN stack challenges, debugging, and optimization.**
 
+- 👨‍💻 All of my projects are available at [https://rijoksd.netlify.app/](https://rijoksd.netlify.app/)
+
 - 💬 Ask me about **MERN stack, web development tips.**
 
-- 📫 How to reach me **rijoksd.netlify.app**
+- 📫 How to reach me **rijobdk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
